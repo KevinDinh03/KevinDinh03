@@ -4,7 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
-- 🔭 I’m currently working on **Forex Data Analysis Dashboard**
+- 🔭 I’m currently working on **Machine learning for improving Airbnb**
+
+- ⭐ Some finished projects: **Forex Analysis Dashboard**
 
 - 🌱 I’m currently learning **Information Systems in University of Auckland**
 
