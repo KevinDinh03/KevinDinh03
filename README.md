@@ -6,7 +6,11 @@
 
 - 🔭 I’m currently working on **S&P 500 Stocks Unsupervised Machine Learning Trading Strategy**
 
-- ⭐ Some finished projects: **Forex Analysis Dashboard, Machine learning for improving Airbnb, Global Trends in Mental Health Disorder and Global Suicide Rates and King County-Washington House Sales Dashboard**
+- ⭐ Some finished projects: 
+   * **Forex Analysis Dashboard**
+   * **Machine learning for improving Airbnb**
+   * **Global Trends in Mental Health Disorder and Global Suicide Rates**
+   * **King County-Washington House Sales Dashboard**
 
 - 🌱 I’m currently learning **Information Systems in University of Auckland**
 
